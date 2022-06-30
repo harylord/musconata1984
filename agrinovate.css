@@ -1,0 +1,105 @@
+.vision-statement{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 20px;
+}
+.mission-statement{
+    display: inline;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 20px;
+}
+.goals-object{
+    background-color: rgb(247, 239, 252);
+    color: black;
+    border-radius: 40px;
+    margin-top: 5px;
+}
+.To-ul{
+    background-color: black;
+    text-decoration-color: white;
+    font-size: medium;
+    font-style: italic;
+}
+.board-button{
+    background-color: red;
+    color: white;
+    align-items: center;
+    font-size: large;
+    border-radius: 16px;
+    box-shadow: 50px;
+}
+.employ-button{
+    background-color: rgb(163, 245, 11);
+    color: black;
+    align-items: center;
+    font-size: large;
+    border-radius: 16px;
+}
+.research-button{
+    background-color: rgb(31, 88, 31);
+    color: black;
+    align-items: center;
+    font-size: large;
+    border-radius: 16px;
+}
+.histo{
+    background-color:blue;
+    color:white;
+    font-size: large;
+    border-radius: 16px;
+    margin-right: 10px;
+}
+.serv{
+    background-color: yellow;
+    color: black;
+    
+    font-size: large;
+    border-radius: 16px;
+    margin-right: 10px;
+}
+.prog{
+    background-color: whitesmoke;
+    color: black;
+    align-items: center;
+    font-size: large;
+    border-radius: 16px;
+    margin-right: 10px;
+}
+.mark{
+    background-color: rgb(230, 22, 74);
+    color: white;
+    align-items: center;
+    font-size: large;
+    border-radius: 16px;
+    margin-right: 10px;
+}
+.train{
+    background-color: black;
+    color: white;
+    font-size: large;
+    border-radius: 16px;
+    margin-right: 10px;
+}
+  .farm{
+    background-color :rgb(31, 88, 31);
+    opacity: 0.5s;
+    color: white;
+    font-size: large;
+    border-radius: 16px;
+    margin-right: 5px;
+  }
+  .agrinovate{
+      background-color: greenyellow;
+      color: rgb(31, 22, 27);
+      margin-bottom: 20px;
+  }
+  .conta{
+      background-color: blue;
+      color: white;
+      border-radius: 30px;
+      margin-top: 30px;
+  }
+  
